@@ -1,6 +1,13 @@
 # _Qmori artist and Life2D expert online presence_
 
+<br>
+<br>
+
 ## **Table of contents**
+
+---
+
+<br>
 
 - [_Qmori artist and Life2D expert online presence_](#qmori-artist-and-life2d-expert-online-presence)
   - [**Table of contents**](#table-of-contents)
@@ -14,11 +21,13 @@
   - [**Licence**](#licence)
     - [**MIT**](#mit)
 
----
-
 <br>
 
 ## **Abstract**
+
+---
+
+<br>
 
 This project will serve as a point of contact for fans and cunstomers of the Live2D artisan Qmori.  
 It will be implemented using CI/CD practices fully managed by github.
@@ -35,15 +44,17 @@ It will be implemented using CI/CD practices fully managed by github.
 
 <br>
 
----
-
 <br>
 
 ## **Technology Stack**
 
+---
+
 <br>
 
 ### **CD/CI**
+
+<br>
 
 > - github
 >   - github project
@@ -55,7 +66,11 @@ It will be implemented using CI/CD practices fully managed by github.
 >   - unit tests
 >   - integration tests
 
+<br>
+
 ### **Code**
+
+<br>
 
 > - React
 > - Typescript
@@ -67,11 +82,11 @@ It will be implemented using CI/CD practices fully managed by github.
 
 ## **Implementation Details**
 
+---
+
 <br>
 
 ### **DevOps**
-
----
 
 The website will be hosted by **netlify**, which can directly access the github repository and do _partial builds_ upon pushes to a defined branch.
 
@@ -88,8 +103,6 @@ Note that integrated automation test will be rudimentary as this is a one man pr
 
 ### **Application**
 
----
-
 The application will be written by the static site generator **Gatsby** in **_React / Teypescript_**.  
 All tests will utilize the JEST testing framework.
 The UI will be made with customized **material UI** components specifically because of the easily configurable themeing interface.
@@ -98,22 +111,19 @@ Implementation of **Google Analytics** is planned for the feature complete websi
 
 <br>
 
----
-
-<br>
-
 ## **Licence**
+
+---
 
 <br>
 
 ### **MIT**
 
 <br>
-<br>
 
 _Copyright 2022 Nezir Dzanko_
 
----
+<br>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
