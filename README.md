@@ -91,7 +91,7 @@ Note that integrated automation test will be rudimentary as this is a one man pr
 ---
 
 The application will be written by the static site generator **Gatsby** in **_React / Teypescript_**.  
-All tests wililize the JEST testing framework.
+All tests will utilize the JEST testing framework.
 The UI will be made with customized **material UI** components specifically because of the easily configurable themeing interface.
 The social media integration will be handled with the provided public API's.  
 Implementation of **Google Analytics** is planned for the feature complete website.
