@@ -5,8 +5,6 @@
 
 ## **Table of contents**
 
----
-
 <br>
 
 - [_Qmori artist and Life2D expert online presence_](#qmori-artist-and-life2d-expert-online-presence)
@@ -24,8 +22,6 @@
 <br>
 
 ## **Abstract**
-
----
 
 <br>
 
@@ -47,8 +43,6 @@ It will be implemented using CI/CD practices fully managed by github.
 <br>
 
 ## **Technology Stack**
-
----
 
 <br>
 
@@ -82,8 +76,6 @@ It will be implemented using CI/CD practices fully managed by github.
 
 ## **Implementation Details**
 
----
-
 <br>
 
 ### **DevOps**
@@ -111,9 +103,9 @@ Implementation of **Google Analytics** is planned for the feature complete websi
 
 <br>
 
-## **Licence**
-
 ---
+
+## **Licence**
 
 <br>
 
