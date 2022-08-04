@@ -74,7 +74,7 @@ It will be implemented using CI/CD practices fully managed by github.
 
 > - React
 > - Typescript
-> - Gatsby
+> - NextJs
 > - GraphQL
 > - REST
 
